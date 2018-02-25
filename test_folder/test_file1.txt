@@ -1,1 +1,3 @@
 test file 1
+
+new line added when in branch1
