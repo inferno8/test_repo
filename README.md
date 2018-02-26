@@ -1,6 +1,3 @@
-# test_repo
+Hey, don't read me! -test_repo
+
 for testing purposes only
-
-Edit 1
-
-Edit 2
