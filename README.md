@@ -1,4 +1,3 @@
-Hey, don't read me!
+Hey, don't read me! -test_repo
 
-# test_repo
 for testing purposes only
